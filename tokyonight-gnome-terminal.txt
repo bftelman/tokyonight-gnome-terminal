@@ -1,0 +1,37 @@
+[legacy]
+theme-variant='system'
+
+[legacy/profiles:]
+default='d57fb9f1-0edf-492c-8f81-cb13b9005262'
+list=['b1dcc9dd-5262-4d8d-a863-c897e6d979b9', 'd57fb9f1-0edf-492c-8f81-cb13b9005262', '1edaa328-c74b-4242-a9f0-db330f9ccd47', '62231030-a1f3-4951-848f-25760b2816b3', '87baaae7-d378-4fbb-a55c-f522ebe00786']
+
+[legacy/profiles:/:1edaa328-c74b-4242-a9f0-db330f9ccd47]
+background-color='rgb(34,36,54)'
+foreground-color='rgb(200,211,245)'
+palette=['rgb(27,29,43)', 'rgb(255,117,127)', 'rgb(195,232,141)', 'rgb(255,199,119)', 'rgb(130,170,255)', 'rgb(192,153,255)', 'rgb(134,225,252)', 'rgb(130,139,184)', 'rgb(68,74,115)', 'rgb(255,117,127)', 'rgb(195,232,141)', 'rgb(255,199,119)', 'rgb(130,170,255)', 'rgb(192,153,255)', 'rgb(134,225,252)', 'rgb(200,211,245)']
+use-theme-colors=false
+visible-name='TokyoNight Moon'
+
+[legacy/profiles:/:62231030-a1f3-4951-848f-25760b2816b3]
+background-color='rgb(36,40,59)'
+foreground-color='rgb(192,202,245)'
+palette=['rgb(29,32,47)', 'rgb(247,118,142)', 'rgb(158,206,106)', 'rgb(224,175,104)', 'rgb(122,162,247)', 'rgb(187,154,247)', 'rgb(125,207,255)', 'rgb(169,177,214)', 'rgb(65,72,104)', 'rgb(247,118,142)', 'rgb(158,206,106)', 'rgb(224,175,104)', 'rgb(122,162,247)', 'rgb(187,154,247)', 'rgb(125,207,255)', 'rgb(192,202,245)']
+use-theme-colors=false
+visible-name='TokyoNight Storm'
+
+[legacy/profiles:/:87baaae7-d378-4fbb-a55c-f522ebe00786]
+background-color='rgb(225,226,231)'
+foreground-color='rgb(55,96,191)'
+palette=['rgb(233,233,237)', 'rgb(245,42,101)', 'rgb(88,117,57)', 'rgb(140,108,62)', 'rgb(46,125,233)', 'rgb(152,84,241)', 'rgb(0,113,151)', 'rgb(97,114,176)', 'rgb(161,166,197)', 'rgb(245,42,101)', 'rgb(88,117,57)', 'rgb(140,108,62)', 'rgb(46,125,233)', 'rgb(152,84,241)', 'rgb(0,113,151)', 'rgb(55,96,191)']
+use-theme-colors=false
+visible-name='TokyoNight Day'
+
+[legacy/profiles:/:d57fb9f1-0edf-492c-8f81-cb13b9005262]
+background-color='rgb(26,27,38)'
+bold-color-same-as-fg=true
+font='Monospace 12'
+foreground-color='rgb(192,202,245)'
+palette=['rgb(21,22,30)', 'rgb(247,118,142)', 'rgb(158,206,106)', 'rgb(224,175,104)', 'rgb(122,162,247)', 'rgb(187,154,247)', 'rgb(125,207,255)', 'rgb(169,177,214)', 'rgb(65,72,104)', 'rgb(247,118,142)', 'rgb(158,206,106)', 'rgb(224,175,104)', 'rgb(122,162,247)', 'rgb(187,154,247)', 'rgb(125,207,255)', 'rgb(192,202,245)']
+use-system-font=true
+use-theme-colors=false
+visible-name='TokyoNight Night'
